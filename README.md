@@ -1,5 +1,5 @@
 # Hotel Cancellation Analysis
-Objective of this project is to explore the insights about customer behavior on hotel cancellation 
+The objective of this project is to explore the insights about customer behavior on hotel cancellation 
 
 Dataset Overview and Preprocessing 
 1. This dataset contains of 119,390 rows and 29 features
